@@ -4,12 +4,12 @@
 
 | 項目 | 設定値 | 設計理由 |
 |---|---|---|
-| 仮想化ソフト | VirtualBox | 演習指定 |
+| 仮想化ソフト | VirtualBox | 課題指定 |
 | OS・バージョン | Ubuntu Server 24.04 LTS | Nginx・Tomcat・PostgreSQLをパッケージ管理の仕組みで導入できる |
 | ホスト名 | helpdesk-server | サーバーを識別するため |
-| CPU | 1コア | 演習指定 |
-| メモリ | 1024MB | 演習指定 |
-| ディスク | 20GB・可変サイズ | 演習指定 |
+| CPU | 1コア | 課題指定 |
+| メモリ | 1024MB | 課題指定 |
+| ディスク | 20GB・可変サイズ | 課題指定 |
 | 想定構成 | Nginx + Tomcat + PostgreSQL | Web/AP/DBを1台に同居 |
 
 ## 2. パーティション設計
